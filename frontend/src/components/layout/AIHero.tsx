@@ -1,6 +1,6 @@
 "use client";
 
-import AIHero from "./AIHero";
+
 
 export default function AIHero() {
   return (
